@@ -1,3 +1,7 @@
+Camera panner in action:
+Turn around an underwatr fishing camera using a wireless remote control:
+https://www.youtube.com/watch?v=St414xhtMCk
+
 # Camera-Panner
 - remote control + receiver $5 on eBay: https://github.com/Astro-Stuff/Camera-Panner/blob/main/remote.jpg
 - Arduino board $3 on eBay
