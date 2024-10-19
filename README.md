@@ -1,5 +1,5 @@
 Camera panner in action:
-Turn around an underwatr fishing camera using a wireless remote control:
+Turn around an underwater fishing camera using a wireless remote control:
 https://www.youtube.com/watch?v=St414xhtMCk
 
 # Camera-Panner
